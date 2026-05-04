@@ -1,6 +1,6 @@
-# Portofolio Web — [Faris Edrik P / rissss21]
+# Portofolio Web — [Muhammadrifa'i/ muhammadrifaii]
 
-Selamat datang di portofolio web pribadi saya! 🌐  
+Selamat datang di portofolio web pribadi saya!  
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
 
 ##  Struktur Project
@@ -18,11 +18,11 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 - **ESLint** telah terkonfigurasi agar coding style tetap rapi  
 - Struktur modular dan siap dikembangkan—bisa ditambahkan halaman “About”, “Projects”, dsb.
 
-##  Cara Jalankan
+##  Cara Jalankan nya
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
+git https://github.com/muhammadrifaii/Portofolio_faiq.git
 cd portofolio
 ````
 
@@ -44,18 +44,14 @@ npm run build
 ## &#x20;Quick Preview
 
 Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://username.github.io/portofolio/)
+[🔗 Lihat versi live](https://github.com/muhammadrifaii/Portofolio_faiq)
 
 ## Tentang Saya
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
-Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
+Hai, saya Muhammad Rifa'i (username GitHub: `rissss21`).
+Saya merupakan seorang developer yang berfokus pada pengembangan aplikasi web dengan desain modern, ringan, dan performa yang optimal. Silakan meninjau proyek yang telah saya kerjakan, dan jangan ragu untuk menghubungi saya untuk informasi lebih lanjut
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
+* **Email:** [email\_rifairafai77@gmail.com](mailto:email_muhammadrifai112222@gmail.com)
+
 * **Instagram:** @faiq_
 
----
-
-
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
